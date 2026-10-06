@@ -1,7 +1,8 @@
 ### Hi, I'm Charanjit 👋
 
-**SDET / Senior QA Automation Engineer** in Toronto (GTA).
-For 10+ years I've built mobile, web and API automation frameworks for retail, food-service and healthtech products. My job is turning "it works on my machine" into a green build on every platform.
+**SDET / Senior QA Automation Engineer** · 📍 Toronto (GTA)
+
+I have 10+ years of experience building mobile, web and API automation frameworks for retail, food-service and healthtech products. I turn "it works on my machine" into a green build on every platform.
 
 - 📱 **Mobile & cross-platform:** Android, iOS, Smart TV, Chromecast, Nvidia Shield, set-top boxes
 - 🧪 **Frameworks:** BDD with Java + Appium + Cucumber, Carina, WebdriverIO
